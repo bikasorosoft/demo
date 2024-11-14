@@ -1,0 +1,8 @@
+Create a Singleton class and load data from a CSV file.
+
+The expected methods are:
+   - populate (Will populate data from file)
+   - getDataMemberValue
+   - setDataMemberValue
+   - clear
+   - print
